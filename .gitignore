@@ -1,0 +1,22 @@
+###Java###
+#Arquivo de classe compilado
+*.classe
+
+# Arquivo de log
+*.registro
+
+# arquivos BlueJ
+*.ctxt
+
+# Ferramentas móveis para Java (J2ME)
+.mtj.tmp/
+
+# Arquivos de pacote #
+*.jar
+*.guerra
+*.nar
+*.orelha
+*.fecho eclair
+*.tar.gz
+*.rar
+*.metadata
